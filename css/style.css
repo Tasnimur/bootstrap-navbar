@@ -1,0 +1,14 @@
+
+.c_prev{
+    left: 89% !important;
+    bottom: 5% !important;
+}
+.c_next{
+    right: 2% !important;
+    bottom: 5% !important;
+}
+.c_prev, .c_next {
+    top: 85%;
+    width: 5%;
+    
+}
